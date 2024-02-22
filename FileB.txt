@@ -1,2 +1,2 @@
 This is File B - Version 1
-Squad commit testing
+Squash commit testing
